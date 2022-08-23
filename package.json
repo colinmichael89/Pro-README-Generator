@@ -1,0 +1,23 @@
+{
+  "name": "module-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinmichael89/Pro-README-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinmichael89/Pro-README-Generator/issues"
+  },
+  "homepage": "https://github.com/colinmichael89/Pro-README-Generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.1.0"
+  }
+}
