@@ -1,3 +1,4 @@
+// Links to license badges
 const licenseBadgeLinks = {
   MIT: "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
   Unlicense:
@@ -28,9 +29,9 @@ ${answers.description}
 * [Questions](#questions)
 ## Installation
 To install dependencies, run the following:
-\`
+~~~
 ${answers.installation}
-\`
+~~~
 ## Usage
 ${answers.usage}
 ## License
@@ -39,9 +40,9 @@ This repository is licensed under the ${answers.license} license.
 ${answers.contribute}
 ## Tests
 To run tests, run the following:
-\`
+~~~
 ${answers.tests}
-\`
+~~~
 ## Questions
 Questions about this repository? Please contact me at [${answers.email}](mailto:${answers.email}). View more of my work in GitHub at [${answers.username}](https://github.com/${answers.username}) 
 `;
