@@ -18,6 +18,6 @@
   "homepage": "https://github.com/colinmichael89/Pro-README-Generator#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "inquirer": "^9.1.0"
+    "inquirer": "^8.2.4"
   }
 }
