@@ -1,7 +1,7 @@
 # README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This project is designed to create a README.md file using terminal prompts and Inquire
+This application creates a professional README.md file using command prompts and Inquirer
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -15,7 +15,7 @@ To install dependencies, run the following:
 npm i
 ~~~
 ## Usage
-Anyone can use this repo
+Anyone can use this app
 ## License
 This repository is licensed under the MIT license.
 ## Contributing
