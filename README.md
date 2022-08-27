@@ -1,7 +1,7 @@
-# README Generator
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# PRO Team Profile Generator
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Description
-This application creates a professional README.md file using command prompts and Inquirer
+This application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -15,11 +15,11 @@ To install dependencies, run the following:
 npm i
 ~~~
 ## Usage
-Anyone can use this app
+Anyone can use this repository
 ## License
-This repository is licensed under the MIT license.
+This repository is licensed under the Unlicense license.
 ## Contributing
-no contributions
+This repository is not accepting contributions
 ## Tests
 To run tests, run the following:
 ~~~

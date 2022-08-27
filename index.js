@@ -32,7 +32,7 @@ inquirer
       name: "license",
       choices: [
         "MIT",
-        "Unilicense",
+        "Unlicense",
         "Apache 2.0",
         "GNU v3",
         "BSD 3-Clause",
